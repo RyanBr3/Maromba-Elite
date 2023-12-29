@@ -1,9 +1,9 @@
-<h1 align="center">Coffe RIO</h1>
+<h1 align="center">MarombaElite</h1>
 
 <h4 align="center"> 
 	Descrição do Projeto
 </h4>
- <h3 align="center">Um projeto da Rafa Ballerini, só para treinar um pouco de HTML e CSS.</h3> 
+ <h3 align="center">Um projeto para treinar HTML, CSS e JavaScript</h3> 
 
  ##
 
